@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>PHP 测试</title>
+  <title>PHPin master</title>
  </head>
  <body>
  <p>Hello World</p>
